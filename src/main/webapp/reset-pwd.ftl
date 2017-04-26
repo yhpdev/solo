@@ -61,7 +61,7 @@
             <div class="footerWrapper">
                 <div class="footer">
                     &copy; ${year} - <a href="${servePath}">${blogTitle}</a><br/>
-                    Powered by <a href="http://b3log.org" target="_blank">B3log 开源</a> • <a href="http://b3log.org/services/#solo" target="_blank">Solo</a> ${version}
+                    PPowered by <a href="" target="_blank">太阳岛社区</a>, ver 2017
                 </div>
             </div>
         </div>

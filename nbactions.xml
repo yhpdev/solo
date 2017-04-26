@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
+    <!-- 
     <action>
         <actionName>CUSTOM-jetty-debug</actionName>
         <displayName>jetty-debug</displayName>
@@ -10,6 +11,7 @@
             <jpda.listen>maven</jpda.listen>
         </properties>
     </action>
+     -->
     <action>
         <actionName>CUSTOM-release</actionName>
         <displayName>release</displayName>

@@ -18,7 +18,7 @@
         <div class="footerWrapper">
             <div class="footer">
                 &copy; ${year}
-                Powered by <a href="http://b3log.org" target="_blank">B3log 开源</a>, ver ${version}
+                PPowered by <a href="" target="_blank">太阳岛社区</a>, ver 2017
             </div>
         </div>
     </body>
