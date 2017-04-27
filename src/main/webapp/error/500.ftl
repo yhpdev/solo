@@ -11,7 +11,7 @@
             <div class="wrap">
                 <div class="content">
                     <div class="logo">
-                        <a href="http://b3log.org" target="_blank">
+                        <a href="" target="_blank">
                             <img border="0" width="153" height="56" alt="B3log" title="B3log" src="${staticServePath}/images/logo.jpg"/>
                         </a>
                     </div>
@@ -23,9 +23,6 @@
                             <a href="https://github.com/b3log/solo/issues/new">report</a> it to help us.
                             Return to <a href="${servePath}">Index</a>.
                         </div>
-                        <a href="http://b3log.org" target="_blank">
-                            <img border="0" class="icon" alt="B3log" title="B3log" src="${staticServePath}/favicon.png"/>
-                        </a>
                     </div>
                     <span class="clear"></span>
                 </div>

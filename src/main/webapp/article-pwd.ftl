@@ -21,7 +21,7 @@
             <div class="wrap">
                 <div class="content">
                     <div class="logo">
-                        <a href="http://b3log.org" target="_blank">
+                        <a href="" target="_blank">
                             <img border="0" width="153" height="56" alt="B3log" title="B3log" src="${staticServePath}/images/logo.jpg"/>
                         </a>
                     </div>
@@ -41,9 +41,6 @@
                             <input type="hidden" name="articleId" value="${articleId}" />
                             <button id="confirm" type="submit">${confirmLabel}</button>
                         </form>
-                        <a href="http://b3log.org" target="_blank">
-                            <img border="0" class="icon" alt="B3log" title="B3log" src="${staticServePath}/favicon.png"/>
-                        </a>
                     </div>
                     <span class="clear"></span>
                 </div>

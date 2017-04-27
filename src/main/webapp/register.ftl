@@ -3,8 +3,8 @@
     <head>
         <meta charset="utf-8" />
         <title>${blogTitle}</title>
-        <meta name="keywords" content="Solo,Java 博客,开源" />
-        <meta name="description" content="An open source blog with Java. Java 开源博客" />
+        <meta name="keywords" content="太阳岛" />
+        <meta name="description" content="太阳岛社区" />
         <meta name="owner" content="B3log Team" />
         <meta name="author" content="B3log Team" />
         <meta name="generator" content="Solo" />
@@ -19,12 +19,12 @@
             <div class="wrap">
                 <div class="content">
                     <div class="logo">
-                        <a href="http://b3log.org" target="_blank">
-                            <img border="0" width="153" height="56" alt="B3log" title="B3log" src="${staticServePath}/images/logo.jpg"/>
+                        <a href="" target="_blank">
+                            <img border="0" width="153" height="56" alt="" title="B3log" src="${staticServePath}/images/logo.jpg"/>
                         </a>
                     </div>
                     <div class="main register">
-                        <h2>${registerSoloUserLabel}</h2>
+                        <h2>注册用户</h2>
                         <div class="form">
                             <label for="userEmail">
                                 ${commentEmail1Label}

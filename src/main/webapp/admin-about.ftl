@@ -31,55 +31,22 @@
 
 <div class="module-panel">
     <div class="module-header">
-        <h2>${aboutLabel}</h2>
+        <h2>关于</h2>
     </div>
     <div class="module-body padding12">
         <div class="about-logo">
-            <a href="http://b3log.org" target="_blank">
-                <img src="${staticServePath}/images/logo.png" alt="Solo" title="Solo" />
+            <a href="" target="_blank">
+                <img src="${staticServePath}/images/logo.png" />
             </a>
         </div>
         <div class="left" style="width: 73%">
-            <div id="aboutLatest" class="about-margin">${checkingVersionLabel}</div>
-            ${aboutContentLabel}
+            <div id="aboutLatest" class="about-margin">太阳岛社区</div>
+                       欢迎大家来到太阳岛社区,专为老师和同学们开设<br>
+                       时光匆匆，转眼间已毕业工作，大家各奔东西，联系减少。经组织决定，开设此论坛、加强联系、增进感情、分享资源，纪录生活。
         </div>
         <span class="clear" />
     </div>
     <div class="module-body padding12 about-developer">
-        <div class="about-logo">
-            <!--            <a href="http://b3log.org" target="_blank">
-                            <img src="${staticServePath}/images/developers.jpg" alt="Solo" title="Solo" />
-                        </a>-->
-            <div style="width: 156px; height: 56px;"></div>
-        </div>
-        <div class="about-body">
-            <div class="left" style="width: 73%">
-                <div class="about-margin developer-title">${developersLabel}</div>
-                <div class="about-margin contributor-title">${contributorsLabel}</div>
-            </div>
-            <div class="left" style="width: 73%">
-                <div class="developer-body">
-                    <ul>
-                        <li><a target="_blank" href="http://88250.b3log.org">D</a></li>
-                        <li><a target="_blank" href="http://vanessa.b3log.org">V</a></li>
-                        <li><a target="_blank" href="mailto:wmainlove@gmail.com">mainlove</a></li>
-                        <li><a target="_blank" href="http://people.apache.org/%7Edongxu">DX</a></li>
-                        <li><a target="_blank" href="http://mizhichashao.com">大叔</a></li>
-                        <li><a target="_blank" href="http://www.jiangzezhou.com">javen.jiang</a></li>
-                    </ul>
-                </div>
-                <div class="contributor-body">
-                    <ul>
-                        <li><a target="_blank" href="http://www.ansen.org">An Shen</a></li>
-                        <li><a target="_blank" href="http://www.bestck.net">Chevo</a></li>
-                        <li><a target="_blank" href="https://github.com/paul-luo">破生</a></li>
-                        <li><a target="_blank" href="http://xxk.b3log.org">宋诗献</a></li>
-                        <li><a target="_blank" href="http://www.mynah.org">Lamb</a></li>
-                        <li><a target="_blank" href="https://github.com/xiaomogui">大姨夫</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
         <span class="clear" />
     </div>
 </div>

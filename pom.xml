@@ -273,8 +273,8 @@
 						<include>**/src/*/java/**/*.java</include>
 						<include>**/src/*/webapp/js/*.js</include>
 						<include>**/src/*/webapp/css/*.css</include>
-						<include>**/src/*/webapp/skins/*/js/*.js</include>
-						<include>**/src/*/webapp/skins/*/css/*.css</include>
+						<include>**/src/*/webapp/skins/**/js/*.js</include>
+						<include>**/src/*/webapp/skins/**/css/*.css</include>
 						<include>**/src/*/webapp/skins/**/*.properties</include>
 						<include>**/src/*/webapp/plugins/*/js/*.js</include>
 						<include>**/src/*/webapp/plugins/*/css/*.css</include>

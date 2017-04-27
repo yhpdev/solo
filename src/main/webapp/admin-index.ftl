@@ -14,9 +14,7 @@
         <div class="tip tip-msg"><span id="tipMsg"></span></div>
         <div id="allPanel">
             <div id="top">
-                <a href="http://b3log.org" target="_blank" class="hover">
-                    Solo
-                </a>
+                <a href="" target="_blank" class="hover">太阳岛</a>
                
                 <span class="right"> 
                     <span>${userName}</span><a href="${servePath}" title='${indexLabel}'>${indexLabel}</a><a href='javascript:admin.logout();' title='${logoutLabel}'>${logoutLabel}</a>
