@@ -109,21 +109,42 @@
                     </li>
                 </ul>
             </div>
-            <div id="tabsPanel">
-               <style type=text/css> 
-                 div{font-size:12px;font-family:arial}
-                 .baidu{font-size:14px;line-height:28px;font-family:arial;background-color:#f4efe9}
-                 a,a:link{color:#335066;text-decoration:none}
-                 .baidu span{color:#6f6f6f;font-size:12px} 
-                 a.more{color:#008000;}
-                 a.blk{color:#000;font-weight:bold;font-size:16px}
-               </style>
-               <script language="JavaScript" type="text/JavaScript" src="http://news.baidu.com/n?cmd=1&class=internet&pn=1&tn=newsbrofcu"></script>
-               <script language="JavaScript" type="text/JavaScript" src="http://news.baidu.com/n?cmd=1&class=autonews&pn=1&tn=newsbrofcu"></script>
-               <script language="JavaScript" type="text/JavaScript" src="http://news.baidu.com/n?cmd=1&class=socianews&pn=1&tn=newsbrofcu"></script>
-            </div>
-            <div class="footer">
-                Powered by <a href="" target="_blank">太阳岛社区</a>, ver 2017
+            <!-- B3log 公告  <div id="tabsPanel"> -->
+            <div id="tabsPanel_main" class="none">
+                 <div class="module-panel">
+                    <div class="module-header">
+                         <h2><a href="https://hacpai.com" target="_blank">社区推荐</a></h2>
+                    </div>
+                    <div class="module-body padding12">
+                         <style type=text/css> 
+                                a.more{color:#008000;}
+                                a.blk{color:#000;font-weight:bold;font-size:16px}
+                                a,a:link{color:#335066;text-decoration:none}
+                                .baidu span{color:#6f6f6f;font-size:12px}
+                                .baiducss{font-size:12px;font-family:arial}
+                                .baidu{font-size:14px;line-height:28px;font-family:arial;background-color:#f4efe9}
+                         </style>
+                         <div id="symphonyInterest" class="baiducss" style="background: none;">
+                              <script language="JavaScript" type="text/JavaScript" src="http://news.baidu.com/n?cmd=1&class=internet&pn=1&tn=newsbrofcu"></script>
+                              <script language="JavaScript" type="text/JavaScript" src="http://news.baidu.com/n?cmd=1&class=autonews&pn=1&tn=newsbrofcu"></script>
+                              <script language="JavaScript" type="text/JavaScript" src="http://news.baidu.com/n?cmd=1&class=socianews&pn=1&tn=newsbrofcu"></script>
+                         </div>
+                     </div>
+                  </div>
+                  <div id="tabsPanel_article" class="none"></div>
+                  <div id="tabsPanel_article-list" class="none"></div>
+                  <div id="tabsPanel_draft-list" class="none"></div>
+                  <div id="tabsPanel_link-list" class="none"></div>
+                  <div id="tabsPanel_preference" class="none"></div>
+                  <div id="tabsPanel_page-list" class="none"></div>
+                  <div id="tabsPanel_others" class="none"></div>
+                  <div id="tabsPanel_user-list" class="none"></div>
+                  <div id="tabsPanel_comment-list" class="none"></div>
+                  <div id="tabsPanel_plugin-list" class="none"></div>
+                  <div id="tabsPanel_about" class="none"></div>
+                  <div class="footer">
+                       Powered by <a href="" target="_blank">太阳岛社区</a>, ver 2017
+                  </div>
             </div>
         </div>
         <script src="${staticServePath}/js/lib/jquery/jquery.min.js"></script>
